@@ -1,0 +1,7 @@
+require("conf.theme")
+require("conf.monitors")
+require("conf.environment")
+require("conf.settings")
+require("conf.rules")
+require("conf.autostart")
+require("conf.keybinds")

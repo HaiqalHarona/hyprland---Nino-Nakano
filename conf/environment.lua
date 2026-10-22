@@ -1,0 +1,5 @@
+hl.env("XCURSOR_SIZE", "24")
+hl.env("HYPRCURSOR_SIZE", "24")
+hl.env("XCURSOR_THEME", "Catppuccin-Mocha-Mauve-Cursors")
+hl.env("HYPRCURSOR_THEME", "Catppuccin-Mocha-Mauve-Cursors")
+hl.env("GTK_THEME", "catppuccin-mocha-mauve-standard+default")
